@@ -1,0 +1,7 @@
+从别人的仓库拷贝并编辑：
+网页fork
+从自己的主页找到fork的仓库
+从自己的fork仓库git clone
+在clone好的文件内编辑
+上传：
+详见syy0316026/text_repository
